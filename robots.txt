@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sherthyst.github.io/sitemap.html.gz
+Sitemap: https://sherthyst.github.io/app/sitemap.html.gz
+Sitemap: https://sherthyst.github.io/assets/sitemap.html.gz
+Sitemap: https://sherthyst.github.io/css/sitemap.html.gz
+Sitemap: https://sherthyst.github.io/includes/sitemap.html.gz
+Sitemap: https://sherthyst.github.io/item/sitemap.html.gz
+Sitemap: https://sherthyst.github.io/src/sitemap.html.gz
